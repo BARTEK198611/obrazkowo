@@ -6,7 +6,7 @@ ruby "3.2.1"
 
 gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 gem "sprockets-rails"
-
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem "puma", "~> 5.0"
 gem "importmap-rails"
 gem "turbo-rails"
